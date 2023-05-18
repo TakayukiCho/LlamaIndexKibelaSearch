@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 llama-index = "*"
 html2text = "*"
+langchain = "*"
 
 [dev-packages]
 
